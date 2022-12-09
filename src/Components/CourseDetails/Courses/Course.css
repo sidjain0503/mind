@@ -1,0 +1,107 @@
+.course{
+    font-family: "Manrope",sans-serif;
+    width: 30%;
+    border: 1px solid;
+    border-color: #404BFDE5;
+     
+}
+.course_top{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 4%;
+    cursor: pointer;
+
+}
+.course_top>h3{
+    color: rgba(23, 24, 28, 0.7);
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    text-align: left;
+  
+}
+.course_top>p{
+    font-size: 13px;
+    padding-left: 20px;
+    color: rgba(23, 24, 28, 0.7);
+}
+.course_top>button{
+    width: 200px;
+    font-size: 16px;
+    padding: 10px;
+    background: #FFFFFF;
+    border: 1px solid;
+    border-color:#17181C;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.course_bottom{
+    background-color: #F5F5F5;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    height: 300px;
+}
+.course_bottom>h3{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    margin: 0px 0px 10px 0px;
+}
+.outside{
+    list-style-position: outside;
+
+}
+.course_bottom>ul {
+    list-style: none;
+  }
+  
+
+/* .course_bottom>  ul li:before {
+    content: '✓';
+    color:  #08EB03;
+    margin-right: 20px;
+  } */
+
+.course_bottom>ul > li {
+    padding: 10px;
+    /* margin-left: 20px; */
+    display: flex;
+    align-items: flex-start;
+   
+}
+
+.course_bottom>ul > li >img{
+    width:30px; 
+    height: 30px;
+}
+
+.course_top:hover{
+    background: linear-gradient(180deg, #4751FE 0%, #6A73FF 100%);
+}
+
+.course_top:hover #title{
+    color: #F5F5F5 ;
+    
+}
+
+.course_top:hover #para{
+    color: #F5F5F5 ;
+    
+}
+
+
+.course_top:hover#cbtn{
+    color: #F5F5F5;
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #6A73FF;
+    
+}

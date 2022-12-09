@@ -1,0 +1,157 @@
+.about_main{
+    display: flex;
+    margin-top: 80px;
+
+}
+.about_main>img{
+    width: 50%;
+}
+.about_main>div{
+    width: 32%;
+    margin: auto;
+    padding-left: 90px;
+    font-family: "manrope";
+    font-size: 22px;
+}
+.s_about_us{
+    font-family: 'Manrope';
+    width: 80%;
+    
+    margin: 100px auto 100px auto;
+}
+.s_about_us>p{
+    margin-top: 30px;
+    color: #525252;
+    
+}
+.s_about_us>h1{
+    font-weight: normal;
+    font-size: 48px;
+
+}
+.founder{
+    display: flex;
+    width: 80%;
+    
+    margin: 100px auto 100px auto;
+    font-family: "Manrope",sans-serif;
+}
+.founder_left>#f_name{
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+.founder_left{
+    width: 70%;
+}
+.founder_left>h3{
+    font-size: 24px;
+    font-weight: normal;
+    margin: 20px auto 20px auto;
+}
+.founder_left>div{
+    font-size: 16px;
+}
+.founder_left>p{
+    color: #525252;
+    font-size: 16px;
+}
+.founder_right>img{
+    width: 300px;
+}
+.our_mentors{
+    width: 85%;
+    
+    margin: 100px 100px 100px auto;
+}
+.o_mentors{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Manrope",sans-serif;
+
+}
+.o_mentors>h1{
+    padding-right: 40px;
+    font-weight: normal;
+    font-size: 48px;
+}
+.o_mentors_team{
+    display: flex;
+}
+.o_mentors_team>h1{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgba(64, 75, 253, 0.9);
+    font-size: 48px;
+
+}
+.o_mentors_team>div>h1{
+    font-weight: normal;
+}
+.o_mentors_team>div>span{
+    font-size: 14px;
+    color: #525252;
+}
+
+.o_mentor_p{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 70px;
+    justify-content: space-evenly;
+}
+
+.our_values{
+    /* width: 80%; */
+    background: rgba(71, 78, 250, 0.05);
+}
+.our_values>h1{
+    width: 80%;
+    margin: auto;
+    font-family: "Manrope",sans-serif;
+    font-weight: normal;
+    font-size: 48px;
+    
+    padding-top: 30px;
+    
+}
+
+.values{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: "Manrope",sans-serif;
+    width: 80%;
+    margin: 40px auto 150px auto ;
+}
+.values>div>h3{
+
+    font-size: 24px;
+    font-weight: normal;
+
+}
+.values>hr{
+    position: relative;
+    left: -215px;
+    transform: rotate(90deg);
+}
+.our_message{
+    width: 80%;
+    
+    margin: auto auto 100px auto ;
+    font-family: "Manrope",sans-serif;
+}
+.our_message>h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+.our_message>img{
+    width: 100%;
+}
+
+#img_expand{
+    color: blue;
+    text-align: center;
+    width: 100%;
+    cursor: pointer;
+}

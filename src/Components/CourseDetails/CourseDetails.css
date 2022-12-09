@@ -1,0 +1,34 @@
+.course_details{
+    margin-top: 50px;
+}
+.course_details>h1{
+    text-align: center;
+    font-family: "Manrope",sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+}
+.courses{
+    display: flex;
+    width: 85%;
+    margin: auto;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+
+.Trustedby{
+    display: flex;
+    font-family: "Manrope",sans-serif;
+    width: 80%;
+    margin: 75px auto 50px auto;
+
+}
+.Trustedby>h1{
+    font-size: 48px;
+    font-style: normal;
+}
+.Trustedby>h1>img{
+    width: 180px;
+}
+.Trustedby>p{
+    width: 50%;
+}

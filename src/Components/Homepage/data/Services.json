@@ -1,0 +1,37 @@
+[
+    {
+        "img":"./img/Services/pencil.gif",
+        "heading":"Notes & Study Material",
+        "desc":"Prescribe notes based on NCERT syllabus(Mentors will provide their own short notes if needed)"
+    },
+    {
+        "img":"./img/Services/target.gif",
+        "heading":"Motivation and Stratergy",
+        "desc":"The perfect mentor that just wont help you to reach your target while keeping in mind help you excel in mental stress."
+    },
+    {
+        "img":"./img/Services/handshake.gif",
+        "heading":"A Friend not a Mentor",
+        "desc":"Creating a healty target space for you so that you can focus on the preparation without any problem."
+    },
+    {
+     
+        "img":"./img/Services/puzzleds.gif",
+        "heading":"Test Analysis and Doubt Clearance",
+        "desc":"Presence of 24/7 mentors to clear doubt with the top mentors that are ready to help you anytime that you need."   
+    },
+    {
+     
+        "img":"./img/Services/list.gif",
+        "heading":"Personalized Daily Target",
+        "desc":"Boost your studies by planning a fix time table and schedule that will be provided by your personal mentor."   
+    },
+    {
+     
+        "img":"./img/Services/computer-chat.gif",
+        "heading":"Live Sessions by Topper",
+        "desc":"Support you immensely through their brilliant knowledge and path to teach you like your friend."   
+    }
+    
+    
+]

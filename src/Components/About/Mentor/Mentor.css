@@ -1,0 +1,17 @@
+.Mentor{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 20px 20px 0px;
+    width: 240px;
+    height: 240px;
+}
+.Mentor>img{
+    width: 240px;
+    height: 200px;
+    margin: 0px 20px 20px 0px;
+    object-fit: contain;
+
+}
+.Mentor>span{
+    text-align: center;
+}

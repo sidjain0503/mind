@@ -1,0 +1,257 @@
+/* homepage */
+.l_illus{
+    display: flex;
+    height: max-content;
+    margin-top: 90px;
+    margin-bottom: 60px;
+  }
+  .l_illus_left.l_illus_right{
+    width: 50%;
+  }
+  .l_illus_left>h1{
+    line-height: 1.3em;
+    font-size: 48px;
+    font-weight: 500;
+    min-width: 101%;
+    margin-bottom: 30px;
+  }
+  .l_illus_left>h1>span{
+    color: #404BFD;
+  }
+  .l_illus_left>p{
+  font-size: 16px;
+  }
+  .l_illus_left{
+    padding-left: 10%;
+    font-family: 'Manrope', sans-serif;
+    max-width: 35%;
+  }
+  .l_illus_right>img{
+    width: 100%;
+  }
+
+  .Typewriter{
+    display: contents;
+  }
+  
+  #h_ge{
+    width: 200px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .v_desc{
+    height: 80vh;
+    width: 100%;
+    background-color: #F3F2F2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+  }
+  
+  .v_desc>iframe{
+    margin: auto;
+    min-width: 70%;
+    height: 70%;
+
+  }
+  .v_desc_t{
+    display: flex;
+    width: 75%;
+  }
+  .v_desc_t_left,.v_desc_t_right{
+    margin-bottom: 30px;
+    width: 50%;
+  
+  }
+
+  .v_desc_t_left>h1,.v_desc_t_right>p{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500;
+
+  }
+
+  .v_desc_t_right>p{
+    font-size: 13px;
+  }
+
+  
+.st_wtfy{
+    height: 90vh;
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+  }
+  
+  .st_wtfy_ct{
+    display: flex;
+    width: 90%;
+      margin: auto;
+  }
+  .st_wtfy_ct_left,.st_wtfy_ct_right{
+    width: 50%;
+  }
+  
+  /* component */
+  .st_wtfy_c{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .st_wtfy_c>img{
+    width: 50px;
+    margin: 20px;
+  }
+  .st_wtfy_c_desc{
+    text-align: left;
+    width: 80%;
+    cursor: pointer;
+  }
+  .st_wtfy_c_desc>p{
+    width: 85%;
+    margin-top: 5px;
+  }
+  .st_wtfy_c_desc:hover{
+    color: #404BFD;
+  }
+  /* reveiws */
+  .o_reviews{
+    width: 100%;
+    height: 256px;
+    background: linear-gradient(103.33deg, #404BFD 20.33%, #9A72DD 99.14%);
+    margin-top: 50px;
+    display: flex;
+  }
+  .o_reviews_bx{
+    width: 100%;
+    height: 254px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+  }
+  .o_reviews_bx>p{
+    font-size: 26px;
+    margin-top: 10px;
+    color: #F3F2F2;
+
+  }
+  #o_rev_stmt{
+    border-right: 2px solid rgba(255, 255, 255, 0.14);
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    color: #F3F2F2;
+    /* border-right: black; */
+  }
+  .o_reviews_bx>h1{
+    font-family: manrope;
+    font-size: 72px;
+    color: white;
+    line-height: 72px;
+  /* identical to box height, or 100% */
+  letter-spacing: -0.02em;
+    /* font-style: normal; */
+    font-weight: 800;
+  }
+  
+  
+  /* How mentorship works */
+  .H_men_w_content{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .H_men_w_desc{
+    width: 200px;
+    height: 240px;
+    background: #ECECFC;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 10px;
+    padding-top: 20px;
+    cursor: pointer;
+    
+  }
+  .H_men_w_desc>img{
+    width: 30%;
+    margin-bottom: 10px;
+  }
+  .H_men_w_desc>div>span{
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+    color: #3066EA;
+    font-weight: 900;
+  }
+  .H_men_w_desc>div>p{
+    margin: 10px 0px ;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  
+  /* mentor details */
+  .m_y_mentors_container{
+    width: 90%;
+    margin: 50px auto 150px auto ;
+    display: flex;
+    justify-content: space-between;
+    overflow-y: hidden;
+    overflow-x: scroll;
+  
+    
+  }
+ 
+  /* width */
+  ::-webkit-scrollbar {
+    height: 5px;
+  
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+    max-width: 50px;
+    width: 50px;
+    border-radius: 5px;
+  
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  
+  /* See what our mentees say  */
+  
+  .faq_container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .carousel-container{
+    width: 100%;
+  }
+
+  .react-multi-carousel-list>ul>li{
+    width: 800px !important;
+  }

@@ -1,0 +1,32 @@
+.faq{
+    display: flex;
+    width: 80%;
+    margin: auto ;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #C7C7C7;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.faq_content{
+    width: 80%;
+    /* margin: 100px auto auto auto; */
+    text-align: left;
+}
+.faq_content>h2{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;    
+}
+.faq_content>p{
+    color: #525252;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.faq_btn>img{
+    width: 40px;
+    cursor: pointer;
+}
+

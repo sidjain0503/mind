@@ -1,0 +1,27 @@
+[
+    {
+        "img":"./img/Services/helping-hand.png",
+        "heading":"Mentor Allotment",
+        "desc":"Instant Assignment of your personal mentor from IIT/AIIMS."
+    },
+    {
+        "img":"./img/Services/schedule.png",
+        "heading":"Get a Personalised study schedule",
+        "desc":"A customized study plan design by your mentor with the aim to get the most out of your time."
+    }
+    ,{
+        "img":"./img/Services/to-do-list.png",
+        "heading":"Everyday Tasks",
+        "desc":"Assignment of daily goals to improve your focus and productivity."
+    },
+    {
+        "img":"./img/Services/interview.png",
+        "heading":"Doubt Clearance",
+        "desc":"The solution to all doubt in your inquisitive mind to keep you thinking and not just blinking. "
+    },
+    {
+        "img":"./img/Services/destination.png",
+        "heading":"Learn from your Mentor’s Journey",
+        "desc":"Mentors would share their journey to help you dream more. Learn more. Do more. and Be more!"
+    }
+]

@@ -1,0 +1,18 @@
+.value_head{
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    margin: 20px auto 20px auto ;
+}
+.value_head>span{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.value_head>p{
+    color: #525252;
+
+}
+.value_head>span>span{
+    font-size: 14px;
+
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "sno": 1,
+        "name": "SHRESHTH MISHRA ",
+        "desc": "ELECTRICAL, IIT BHU GRABBED PACKAGE OF 35 LAKH JUST AFTER 3RD YEAR",
+        "img":"./img/Mentors/Tushar.jpeg",
+        "quote":"The best way to predict your future is to create it."
+    },
+    {
+        "sno": 2,
+        "name": "Deepak kumar",
+        "desc": "NEET AIR 1291 ( Bio 340/360 , Phy 170/180 , Chem 160/180 ) NTSE - State rank 3, KVPY - AIR 249 ( SA Stream) , Olympiads - NSEP, NSEC, NSEB, NSEA",
+        "img":"./img/Mentors/Deepak Kumar 26.jpg",
+        "quote":"Just work smart, and do less things with more effect instead of doing more things with side effect."
+    },
+    {
+        "sno": 3,
+        "name": "Badal Singh",
+        "desc": "Electrical, IIT KANPUR ,JEE MAIN RANK 300,JEE ADV. RANK 219 ",
+        "img":"./img/Mentors/Badal Singh.jpg",
+        "quote":"Jee is like a girlfriend who needs consistency, focus and dedication along-with lots and lots of hardwork in the right direction"
+    },
+    {
+        "sno": 4,
+        "name": "Utsav kumar",
+        "desc": "MBBS , IMS BHU ,NEET AR 1283 ( Bio 340/360 , Phy 165/180 , Chem 165/180 ) ,KVPY-AIR 133, NTSE stage 1  ,",
+        "img":"./img/Mentors/Utsav Kumar 92.jpg",
+        "quote":"Together we will make the difference."
+    }
+]
